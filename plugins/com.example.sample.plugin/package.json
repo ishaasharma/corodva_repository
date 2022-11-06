@@ -1,0 +1,14 @@
+{
+  "name": "com.example.sample.plugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.example.sample.plugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}

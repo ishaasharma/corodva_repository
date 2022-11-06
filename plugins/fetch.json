@@ -1,0 +1,10 @@
+{
+  "com.example.sample.plugin": {
+    "source": {
+      "type": "local",
+      "path": "D:\\myapp\\node_modules\\com.example.sample.plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

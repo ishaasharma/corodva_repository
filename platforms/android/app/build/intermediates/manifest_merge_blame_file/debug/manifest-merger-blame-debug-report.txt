@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.cordova.hellocordova"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="10000"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:8:5-14:40
+13        android:anyDensity="true"
+13-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:9:9-34
+14        android:largeScreens="true"
+14-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:10:9-36
+15        android:normalScreens="true"
+15-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:11:9-37
+16        android:resizeable="true"
+16-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:12:9-34
+17        android:smallScreens="true"
+17-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:13:9-36
+18        android:xlargeScreens="true" />
+18-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:14:9-37
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:16:5-67
+20-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:16:22-64
+21
+22    <application
+22-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:18:5-48:19
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.5.0] C:\Users\HP\.gradle\caches\transforms-3\a933bcf9dac1520879a5eb4790b91664\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:hardwareAccelerated="true"
+25-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:19:9-43
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:20:9-43
+27        android:label="@string/app_name"
+27-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:21:9-41
+28        android:supportsRtl="true"
+28-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:22:9-35
+29        android:testOnly="true" >
+30        <activity
+30-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:23:9-36:20
+31            android:name="io.cordova.hellocordova.MainActivity"
+31-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:24:13-41
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+32-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:25:13-129
+33            android:exported="true"
+33-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:26:13-36
+34            android:label="@string/activity_name"
+34-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:27:13-50
+35            android:launchMode="singleTop"
+35-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:28:13-43
+36            android:theme="@style/Theme.AppCompat.NoActionBar"
+36-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:29:13-63
+37            android:windowSoftInputMode="adjustResize" >
+37-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:30:13-55
+38            <intent-filter android:label="@string/launcher_name" >
+38-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:31:13-35:29
+38-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:31:28-65
+39                <action android:name="android.intent.action.MAIN" />
+39-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:32:17-69
+39-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:34:17-77
+41-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:34:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:38:9-46:20
+45            android:name="com.example.sample.plugin.MainActivity"
+45-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:38:19-72
+46            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+46-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:39:13-129
+47            android:exported="true"
+47-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:40:13-36
+48            android:label="@string/activity_name"
+48-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:41:13-50
+49            android:launchMode="singleTop"
+49-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:42:13-43
+50            android:theme="@style/Theme.AppCompat.NoActionBar"
+50-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:43:13-63
+51            android:windowSoftInputMode="adjustResize" >
+51-->D:\myapp\platforms\android\app\src\main\AndroidManifest.xml:44:13-55
+52        </activity>
+53    </application>
+54
+55</manifest>

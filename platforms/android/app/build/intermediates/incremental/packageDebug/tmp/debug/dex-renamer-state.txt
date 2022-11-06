@@ -1,0 +1,19 @@
+#Fri Nov 04 18:14:44 IST 2022
+path.4=1/classes.dex
+path.3=0/classes.dex
+path.2=9/classes.dex
+path.1=7/classes.dex
+path.5=5/classes.dex
+path.0=classes.dex
+base.4=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\9\\classes.dex
+base.1=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\7\\classes.dex
+base.0=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=D\:\\myapp\\platforms\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
