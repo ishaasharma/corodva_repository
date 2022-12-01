@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-hdpi-v13\\values-sw720dp-land-hdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-sw720dp-land-hdpi-v13\\values-sw720dp-land-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,188,247,305,349,392,466,521,575,617,664,719,821,915,1016,1097,1173,1252,1352,1438",
+                        "endColumns": "66,65,58,57,43,42,73,54,53,41,46,54,101,93,100,80,75,78,99,85,80",
+                        "endOffsets": "117,183,242,300,344,387,461,516,570,612,659,714,816,910,1011,1092,1168,1247,1347,1433,1514"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\1991c3e592fdd3abc4fcf2a54cce26dd\\transformed\\jetified-constants-release\\res\\values-sw720dp-land-hdpi-v13\\values-sw720dp-land-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,71",
+                        "endOffsets": "127,199"
+                    },
+                    "to": {
+                        "startLines": "23,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "1519,1596",
+                        "endColumns": "76,71",
+                        "endOffsets": "1591,1663"
+                    }
+                }
+            ]
+        }
+    ]
+}

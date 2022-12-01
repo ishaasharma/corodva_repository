@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-hdpi-v13\\values-sw600dp-hdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\61ee491a96460e728e5e8e134da7649f\\transformed\\jetified-kitabooSDK-release\\res\\values-sw600dp-hdpi-v13\\values-sw600dp-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,122",
+                        "endColumns": "66,65",
+                        "endOffsets": "117,183"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,188",
+                        "endColumns": "66,65",
+                        "endOffsets": "183,249"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-sw600dp-hdpi-v13\\values-sw600dp-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,180,235,281,326,382,444,505,566,618,673,724,780,861",
+                        "endColumns": "65,58,54,45,44,55,61,60,60,51,54,50,55,80,75",
+                        "endOffsets": "116,175,230,276,321,377,439,500,561,613,668,719,775,856,932"
+                    },
+                    "to": {
+                        "startLines": "2,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,254,313,368,414,459,515,577,638,699,751,806,857,913,994",
+                        "endColumns": "65,58,54,45,44,55,61,60,60,51,54,50,55,80,75",
+                        "endOffsets": "116,308,363,409,454,510,572,633,694,746,801,852,908,989,1065"
+                    }
+                }
+            ]
+        }
+    ]
+}

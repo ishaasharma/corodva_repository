@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="integer" name="seekbar_thumb_size" type="integer">38</item>
+</resources>

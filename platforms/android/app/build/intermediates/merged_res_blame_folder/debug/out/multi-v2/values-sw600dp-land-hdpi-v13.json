@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-hdpi-v13\\values-sw600dp-land-hdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-sw600dp-land-hdpi-v13\\values-sw600dp-land-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,101,146,188,269",
+                        "endColumns": "45,44,41,80,75",
+                        "endOffsets": "96,141,183,264,340"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "188,234,279,321,402",
+                        "endColumns": "45,44,41,80,75",
+                        "endOffsets": "229,274,316,397,473"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\61ee491a96460e728e5e8e134da7649f\\transformed\\jetified-kitabooSDK-release\\res\\values-sw600dp-land-hdpi-v13\\values-sw600dp-land-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,122",
+                        "endColumns": "66,65",
+                        "endOffsets": "117,183"
+                    }
+                }
+            ]
+        }
+    ]
+}

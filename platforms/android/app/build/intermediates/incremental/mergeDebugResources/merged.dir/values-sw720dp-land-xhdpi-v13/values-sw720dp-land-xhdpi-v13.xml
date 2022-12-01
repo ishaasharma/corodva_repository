@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_gallery_thumbnail_item_height">230dp</dimen>
+    <dimen name="book_gallery_thumbnail_item_width">180dp</dimen>
+    <dimen name="book_thumbnail_item_height">220dp</dimen>
+    <dimen name="book_thumbnail_item_width">180dp</dimen>
+    <dimen name="custom_panel_screen_height_factor">1.6</dimen>
+    <dimen name="font_setting_margin_from_top">35dp</dimen>
+    <dimen name="innerbookcollection_preview_layout_height">370dp</dimen>
+    <dimen name="main_bottom_setting_panel_margin">350dp</dimen>
+    <dimen name="main_bottom_setting_panel_margin_new">140dp</dimen>
+    <dimen name="moreinfo_dialog_height">420dp</dimen>
+    <dimen name="moreinfo_dialog_width">600dp</dimen>
+    <dimen name="setting_left_right_margin">170dp</dimen>
+    <item format="integer" name="action_bar_bottom_reflowable_land_margin" type="integer">600</item>
+    <item format="integer" name="action_icon_min_width" type="integer">90</item>
+    <item format="integer" name="action_icon_size" type="integer">20</item>
+    <item format="integer" name="books_in_a_row_count" type="integer">5</item>
+    <item format="integer" name="bottom_action_bar_land_FixedEpub_margin" type="integer">760</item>
+    <item format="integer" name="bottom_action_bar_land_FixedEpub_margin_320" type="integer">650</item>
+</resources>

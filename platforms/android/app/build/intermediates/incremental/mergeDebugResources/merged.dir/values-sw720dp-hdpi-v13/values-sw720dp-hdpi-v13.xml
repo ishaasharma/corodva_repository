@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="WBooklayoutshadow_Container_hight">420dp</dimen>
+    <dimen name="book_gallery_thumbnail_item_height">250dp</dimen>
+    <dimen name="book_gallery_thumbnail_item_width">190dp</dimen>
+    <dimen name="book_thumbnail_item_height">220dp</dimen>
+    <dimen name="book_thumbnail_item_width">171dp</dimen>
+    <dimen name="btn_container_margin_buttom">20dp</dimen>
+    <dimen name="btn_container_margin_top">5dp</dimen>
+    <dimen name="close_height">40dp</dimen>
+    <dimen name="close_width">40dp</dimen>
+    <dimen name="edit_profile_setting_txt_top_margin">250dp</dimen>
+    <dimen name="forgotscreenlayoutmargin">60dp</dimen>
+    <dimen name="innerbookcollection_preview_layout_height">400dp</dimen>
+    <dimen name="layoutcollection_header_hight">150dp</dimen>
+    <dimen name="layoutshadow_Container_hight">420dp</dimen>
+    <dimen name="layoutshadow_Container_width">600dp</dimen>
+    <dimen name="moreinfo_dialog_height">430dp</dimen>
+    <dimen name="moreinfo_dialog_width">650dp</dimen>
+    <dimen name="moreinfo_textsize">18sp</dimen>
+    <dimen name="profile_picture_margin_top">150dp</dimen>
+    <dimen name="profile_setting_container_top_margin">500dp</dimen>
+    <dimen name="shadow_Container_hight">432dp</dimen>
+    <dimen name="stackImages_height">250dp</dimen>
+    <dimen name="textview_container_width">50dp</dimen>
+    <item format="integer" name="action_bar_bottom_common_margin" type="integer">53</item>
+    <item format="integer" name="action_bar_bottom_epub_margin" type="integer">270</item>
+    <item format="integer" name="action_bar_bottom_epub_margin_fixed" type="integer">360</item>
+    <item format="integer" name="action_bar_bottom_fixed_epub_common_margin" type="integer">53</item>
+    <item format="integer" name="action_bar_bottom_pdf_margin" type="integer">200</item>
+    <item format="integer" name="action_bar_bottom_reflowable_margin" type="integer">300</item>
+    <item format="integer" name="action_bar_pen_common_margin" type="integer">40</item>
+    <item format="integer" name="action_bar_pen_left_margin" type="integer">250</item>
+    <item format="integer" name="action_icon_min_width" type="integer">90</item>
+    <item format="integer" name="action_icon_size" type="integer">20</item>
+    <item format="integer" name="actionbar_menu_width_tab" type="integer">100</item>
+    <item format="integer" name="books_in_a_row_count" type="integer">4</item>
+    <item format="integer" name="bottom_action_bar_FixedEpub_margin" type="integer">250</item>
+    <item format="integer" name="glossary_link_ic_font_size" type="integer">19</item>
+    <item format="integer" name="glossary_link_ic_size" type="integer">30</item>
+    <item format="integer" name="link_ic_font_size" type="integer">25</item>
+    <item format="integer" name="link_ic_size" type="integer">45</item>
+    <item format="integer" name="page_scroll_height" type="integer">270</item>
+    <item format="integer" name="teacher_review_topbar_margin" type="integer">20</item>
+</resources>

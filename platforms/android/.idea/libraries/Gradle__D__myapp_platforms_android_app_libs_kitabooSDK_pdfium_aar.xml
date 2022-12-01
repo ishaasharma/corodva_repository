@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./myapp/platforms/android/app/libs/kitabooSDK-pdfium.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/377a60fd6670d86805873a66eed92834/transformed/jetified-kitabooSDK-pdfium/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/377a60fd6670d86805873a66eed92834/transformed/jetified-kitabooSDK-pdfium/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/377a60fd6670d86805873a66eed92834/transformed/jetified-kitabooSDK-pdfium/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

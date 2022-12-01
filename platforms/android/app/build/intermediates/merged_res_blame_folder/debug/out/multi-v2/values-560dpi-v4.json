@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-560dpi-v4\\values-560dpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-560dpi-v4\\values-560dpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,212,306,395,491,592,686,784,880,972,1074,1169,1262,1354,1450,1541,1634,1734,1822",
+                        "endColumns": "80,75,93,88,95,100,93,97,95,91,101,94,92,91,95,90,92,99,87,93",
+                        "endOffsets": "131,207,301,390,486,587,681,779,875,967,1069,1164,1257,1349,1445,1536,1629,1729,1817,1911"
+                    }
+                }
+            ]
+        }
+    ]
+}

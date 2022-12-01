@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="float" name="gradient_svg" type="dimen">160</item>
+    <integer name="book_thumbnail_layout_weight">6</integer>
+    <item format="integer" name="seekbar_thumb_size" type="integer">38</item>
+    <integer name="world_book_thumbnail_layout_weight">5</integer>
+</resources>

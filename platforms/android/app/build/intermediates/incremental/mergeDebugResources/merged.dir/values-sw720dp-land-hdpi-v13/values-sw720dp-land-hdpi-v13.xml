@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_gallery_thumbnail_item_height">230dp</dimen>
+    <dimen name="book_gallery_thumbnail_item_width">200dp</dimen>
+    <dimen name="book_thumbnail_item_height">220dp</dimen>
+    <dimen name="book_thumbnail_item_width">180dp</dimen>
+    <dimen name="close_height">40dp</dimen>
+    <dimen name="close_width">40dp</dimen>
+    <dimen name="innerbookcollection_preview_layout_height">400dp</dimen>
+    <dimen name="moreinfo_dialog_height">430dp</dimen>
+    <dimen name="moreinfo_dialog_width">630dp</dimen>
+    <dimen name="new_login">600dp</dimen>
+    <dimen name="new_login_land">400dp</dimen>
+    <dimen name="new_login_navneet_land">500dp</dimen>
+    <item format="integer" name="action_bar_bottom_fixed_epub_common_margin" type="integer">53</item>
+    <item format="integer" name="action_bar_bottom_pdf_land_margin" type="integer">450</item>
+    <item format="integer" name="action_bar_bottom_reflowable_land_margin" type="integer">600</item>
+    <item format="integer" name="action_icon_min_width" type="integer">90</item>
+    <item format="integer" name="action_icon_size" type="integer">20</item>
+    <item format="integer" name="books_in_a_row_count" type="integer">5</item>
+    <item format="integer" name="bottom_action_bar_land_FixedEpub_margin" type="integer">610</item>
+    <item format="integer" name="glossary_link_ic_font_size" type="integer">28</item>
+    <item format="integer" name="glossary_link_ic_size" type="integer">45</item>
+    <item format="integer" name="link_ic_font_size" type="integer">35</item>
+    <item format="integer" name="link_ic_size" type="integer">60</item>
+</resources>

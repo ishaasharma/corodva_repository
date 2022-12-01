@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: D./myapp/platforms/android/app/libs/kitabooReader-kitabooApp-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa8a95d38b1894aefc59169887bd25c4/transformed/jetified-kitabooReader-kitabooApp-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fa8a95d38b1894aefc59169887bd25c4/transformed/jetified-kitabooReader-kitabooApp-release/jars/libs/json-20211205.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa8a95d38b1894aefc59169887bd25c4/transformed/jetified-kitabooReader-kitabooApp-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa8a95d38b1894aefc59169887bd25c4/transformed/jetified-kitabooReader-kitabooApp-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D./myapp/platforms/android/app/libs/constants-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1991c3e592fdd3abc4fcf2a54cce26dd/transformed/jetified-constants-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1991c3e592fdd3abc4fcf2a54cce26dd/transformed/jetified-constants-release/jars/libs/org.apache.http.legacy.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1991c3e592fdd3abc4fcf2a54cce26dd/transformed/jetified-constants-release/jars/libs/svg-android-1.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1991c3e592fdd3abc4fcf2a54cce26dd/transformed/jetified-constants-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1991c3e592fdd3abc4fcf2a54cce26dd/transformed/jetified-constants-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

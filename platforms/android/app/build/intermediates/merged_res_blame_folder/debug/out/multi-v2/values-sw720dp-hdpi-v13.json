@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-hdpi-v13\\values-sw720dp-hdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\1991c3e592fdd3abc4fcf2a54cce26dd\\transformed\\jetified-constants-release\\res\\values-sw720dp-hdpi-v13\\values-sw720dp-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,132",
+                        "endColumns": "76,71",
+                        "endOffsets": "127,199"
+                    },
+                    "to": {
+                        "startLines": "40,41",
+                        "startColumns": "4,4",
+                        "startOffsets": "2724,2801",
+                        "endColumns": "76,71",
+                        "endOffsets": "2796,2868"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\61ee491a96460e728e5e8e134da7649f\\transformed\\jetified-kitabooSDK-release\\res\\values-sw720dp-hdpi-v13\\values-sw720dp-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "273",
+                        "endColumns": "78",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "42",
+                        "startColumns": "4",
+                        "startOffsets": "2873",
+                        "endColumns": "78",
+                        "endOffsets": "2947"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-sw720dp-hdpi-v13\\values-sw720dp-hdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,188,254,313,371,430,485,529,572,640,696,770,832,893,954,1009,1063,1112,1171,1240,1295,1346,1402,1493,1583,1679,1781,1870,1966,2054,2141,2222,2298,2383,2462,2557,2643,2724",
+                        "endColumns": "65,66,65,58,57,58,54,43,42,67,55,73,61,60,60,54,53,48,58,68,54,50,55,90,89,95,101,88,95,87,86,80,75,84,78,94,85,80,87",
+                        "endOffsets": "116,183,249,308,366,425,480,524,567,635,691,765,827,888,949,1004,1058,1107,1166,1235,1290,1341,1397,1488,1578,1674,1776,1865,1961,2049,2136,2217,2293,2378,2457,2552,2638,2719,2807"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,188,254,313,371,430,485,529,572,640,696,770,832,893,954,1009,1063,1112,1171,1240,1295,1346,1402,1493,1583,1679,1781,1870,1966,2054,2141,2222,2298,2383,2462,2557,2643,2952",
+                        "endColumns": "65,66,65,58,57,58,54,43,42,67,55,73,61,60,60,54,53,48,58,68,54,50,55,90,89,95,101,88,95,87,86,80,75,84,78,94,85,80,87",
+                        "endOffsets": "116,183,249,308,366,425,480,524,567,635,691,765,827,888,949,1004,1058,1107,1166,1235,1290,1341,1397,1488,1578,1674,1776,1865,1961,2049,2136,2217,2293,2378,2457,2552,2638,2719,3035"
+                    }
+                }
+            ]
+        }
+    ]
+}

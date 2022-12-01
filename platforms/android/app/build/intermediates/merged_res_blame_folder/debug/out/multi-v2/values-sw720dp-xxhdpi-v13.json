@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myapp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-xxhdpi-v13\\values-sw720dp-xxhdpi-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\fa8a95d38b1894aefc59169887bd25c4\\transformed\\jetified-kitabooReader-kitabooApp-release\\res\\values-sw720dp-xxhdpi-v13\\values-sw720dp-xxhdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,242,332,428,522,611,707,795,882,973,1054",
+                        "endColumns": "90,95,89,95,93,88,95,87,86,90,80,75",
+                        "endOffsets": "141,237,327,423,517,606,702,790,877,968,1049,1125"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "188,279,375,465,561,655,744,840,928,1015,1106,1187",
+                        "endColumns": "90,95,89,95,93,88,95,87,86,90,80,75",
+                        "endOffsets": "274,370,460,556,650,739,835,923,1010,1101,1182,1258"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\61ee491a96460e728e5e8e134da7649f\\transformed\\jetified-kitabooSDK-release\\res\\values-sw720dp-xxhdpi-v13\\values-sw720dp-xxhdpi-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,122,188",
+                        "endColumns": "66,65,84",
+                        "endOffsets": "117,183,268"
+                    },
+                    "to": {
+                        "startLines": "2,3,16",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,122,1263",
+                        "endColumns": "66,65,84",
+                        "endOffsets": "117,183,1343"
+                    }
+                }
+            ]
+        }
+    ]
+}

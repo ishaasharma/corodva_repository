@@ -5,6 +5,9 @@
     android:versionCode="10000"
     android:versionName="1.0.0">
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <supports-screens
         android:anyDensity="true"
         android:largeScreens="true"
@@ -21,6 +24,13 @@
         android:label="@string/app_name"
         android:supportsRtl="true">
         <activity
+            android:name=".MyApplication"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
             android:exported="true"
@@ -34,17 +44,24 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.example.sample.plugin.MainActivity"
+        <activity
+            android:name="com.hurix.kitaboocloud.kitaboosdkrenderer.PlayerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|fontScale"
+            android:hardwareAccelerated="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name="com.example.sample.plugin.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
             android:exported="true"
             android:label="@string/activity_name"
             android:launchMode="singleTop"
             android:theme="@style/Theme.AppCompat.NoActionBar"
-            android:windowSoftInputMode="adjustResize">
-
-        </activity>
-
+            android:windowSoftInputMode="adjustResize"></activity>
+        <activity
+            android:name="com.hurix.kitaboocloud.kitaboosdkrenderer.customviews.CustomMobileBackEnabledActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|fontScale|layoutDirection|locale"
+            android:resizeableActivity="true"
+            android:theme="@style/CustomActionBarThemeMobile" />
     </application>
 
 </manifest>

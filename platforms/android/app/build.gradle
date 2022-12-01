@@ -197,6 +197,7 @@ android {
         }
         targetSdkVersion cordovaConfig.SDK_VERSION
         compileSdkVersion cordovaConfig.SDK_VERSION
+        multiDexEnabled true
     }
 
     lintOptions {
@@ -295,50 +296,56 @@ android {
 dependencies {
 
     implementation fileTree(include: ['*.aar'], dir: 'libs')
+    //noinspection GradleDependency
     implementation "androidx.appcompat:appcompat:${cordovaConfig.ANDROIDX_APP_COMPAT_VERSION}"
+
+       implementation files('libs/kitabooSDK-pdfium.aar')
+      implementation files('libs/constants-release.aar')
+      implementation files('libs/kitabooSDK-release.aar')
+      implementation files('libs/kitabooReader-kitabooApp-release.aar')
 //    api'com.hurix.kitaboo:constant:1.9'
 //    api'com.hurix.kitaboo:kitabooSDK-pdfium:1.2'
 //    api'com.hurix.kitaboo:kitabooreader:4.6'
 //    api'com.hurix.kitaboo:kitabooSDK:3.6'
 
 //
-//    implementation 'androidx.appcompat:appcompat:1.0.0'
-//    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-//
-//    testImplementation 'junit:junit:4.12'
-//    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
-//    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-//    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-//    api 'com.android.support:multidex:1.0.1'
-//
-//    api 'com.github.arimorty:floatingsearchview:2.0.4'
-//    implementation 'it.sephiroth.android.library.horizontallistview:hlistview:1.2.2'
-//    implementation group: 'com.caverock', name: 'androidsvg', version: '1.2.1'
-//    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.1.16'
-//    implementation 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
-//    api 'com.google.code.gson:gson:2.8.6'
-//    implementation 'io.reactivex.rxjava2:rxjava:2.0.6'
-//    implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
-//    //  implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-//    implementation 'com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2'
-//    api 'com.squareup.picasso:picasso:2.8'
-//    api 'com.mikhaellopez:circularimageview:3.2.0'
-//    implementation 'com.google.android.material:material:1.0.0'
-//    //implementation 'com.google.firebase:firebase-analytics:17.2.0'
-//    implementation 'jp.wasabeef:picasso-transformations:2.2.1' // If you want to use the GPU Filters
-//    implementation 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1'
-//    api 'com.thoughtbot:expandablerecyclerview:1.3'
-//    //implementation 'androidx.appcompat:appcompat:1.1.0'
-//    api 'com.github.bumptech.glide:glide:4.11.0'
-//    implementation 'in.hourglass.mathrender:katexmathview:1.0.3'
-//    // ViewModel
-//    def lifecycle_version = "2.2.0"
-//    api "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
-//    api 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-//    api 'com.google.android.gms:play-services-auth:18.0.0'
-//    api 'io.reactivex.rxjava2:rxjava:2.2.8'
-//    api 'com.squareup.retrofit2:retrofit:2.9.0'
-//    implementation 'com.github.smart-fun:XmlToJson:1.5.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    api 'com.android.support:multidex:1.0.3'
+
+    api 'com.github.arimorty:floatingsearchview:2.0.4'
+    implementation 'it.sephiroth.android.library.horizontallistview:hlistview:1.2.2'
+    implementation group: 'com.caverock', name: 'androidsvg', version: '1.2.1'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.1.16'
+    implementation 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
+    api 'com.google.code.gson:gson:2.8.6'
+    implementation 'io.reactivex.rxjava2:rxjava:2.0.6'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    //  implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+//    implementation 'com.squareup.picasso:picasso:2.71828'
+    api 'com.mikhaellopez:circularimageview:3.2.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    //implementation 'com.google.firebase:firebase-analytics:17.2.0'
+    implementation 'jp.wasabeef:picasso-transformations:2.2.1' // If you want to use the GPU Filters
+    implementation 'jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1'
+    api 'com.thoughtbot:expandablerecyclerview:1.3'
+    //implementation 'androidx.appcompat:appcompat:1.1.0'
+    api 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'in.hourglass.mathrender:katexmathview:1.0.3'
+    // ViewModel
+    def lifecycle_version = "2.2.0"
+    api "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+    api 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    api 'com.google.android.gms:play-services-auth:18.0.0'
+    api 'io.reactivex.rxjava2:rxjava:2.2.8'
+    api 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.github.smart-fun:XmlToJson:1.5.1'
 
     if (cordovaConfig.IS_GRADLE_PLUGIN_KOTLIN_ENABLED) {
         implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${cordovaConfig.KOTLIN_VERSION}"
@@ -347,7 +354,6 @@ dependencies {
     // SUB-PROJECT DEPENDENCIES START
     implementation(project(path: ":CordovaLib"))
 
-    implementation 'com.google.android.material:material:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
     // SUB-PROJECT DEPENDENCIES END

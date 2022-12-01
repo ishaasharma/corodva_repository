@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="About_us_text_size">14sp</dimen>
+    <dimen name="Cancel_btn_text_size">16sp</dimen>
+    <dimen name="Confirm_newpassword_edittext_text_size">16sp</dimen>
+    <dimen name="Coverpic_size">300dp</dimen>
+    <dimen name="LangScrollViewHeight">250dp</dimen>
+    <dimen name="Privacy_policy_text_size">14sp</dimen>
+    <dimen name="Profile_setting_cover_pic_size">250dp</dimen>
+    <dimen name="Save_btn_text_size">16sp</dimen>
+    <dimen name="audio_button_size">25dp</dimen>
+    <dimen name="audio_image_height">120dp</dimen>
+    <dimen name="audio_image_right_margin">0dp</dimen>
+    <dimen name="audio_image_width">150dp</dimen>
+    <dimen name="book_title_layout_size">55dp</dimen>
+    <dimen name="bookshelf_preview_update_icon_size">22sp</dimen>
+    <dimen name="change_password_textsize">22sp</dimen>
+    <dimen name="color_popup_width">250dp</dimen>
+    <dimen name="common_size_privacy_terms">14sp</dimen>
+    <dimen name="custom_panel_screen_height_factor">1.6</dimen>
+    <dimen name="docket_height_potrait_mob">300px</dimen>
+    <dimen name="drawer_layout_name_text_size">22sp</dimen>
+    <dimen name="font_setting_margin_from_top">12dp</dimen>
+    <dimen name="innerbook_thumbnail_item_height">160dp</dimen>
+    <dimen name="innerbook_thumbnail_item_width">125dp</dimen>
+    <dimen name="kitaboo_logo_height">26dp</dimen>
+    <dimen name="kitaboo_logo_width">120dp</dimen>
+    <dimen name="last_name_edittext_textsize">16sp</dimen>
+    <dimen name="link_fib_font_size">3sp</dimen>
+    <dimen name="log_out_text_size">20sp</dimen>
+    <dimen name="main_bottom_setting_panel_margin">150dp</dimen>
+    <dimen name="main_bottom_setting_panel_margin_new">150dp</dimen>
+    <dimen name="main_container">400dp</dimen>
+    <dimen name="media_list_discptn_size">15dp</dimen>
+    <dimen name="media_list_image_height">80dp</dimen>
+    <dimen name="media_list_image_width">110dp</dimen>
+    <dimen name="media_list_title_size">16dp</dimen>
+    <dimen name="media_padding">2dp</dimen>
+    <dimen name="media_title_txt_size">17dp</dimen>
+    <dimen name="moreinfo_dialog_height">120dp</dimen>
+    <dimen name="moreinfo_dialog_width">300dp</dimen>
+    <dimen name="moreinfo_textsize">15sp</dimen>
+    <dimen name="moreinfo_title_text_size">16sp</dimen>
+    <dimen name="new_password_edittext_text_size">16sp</dimen>
+    <dimen name="new_profilesetting_camera_icon_size">12sp</dimen>
+    <dimen name="new_profilesetting_camera_icon_size_lang">10sp</dimen>
+    <dimen name="old_Password_edittext_text_size">16sp</dimen>
+    <dimen name="password_lable_text_size">15sp</dimen>
+    <dimen name="profile_name">14sp</dimen>
+    <dimen name="profile_pic_size">120dp</dimen>
+    <dimen name="profile_setting_change_password_container_size">270dp</dimen>
+    <dimen name="profile_setting_container">350dp</dimen>
+    <dimen name="profile_setting_container_margin">350dp</dimen>
+    <dimen name="profile_setting_container_size">400dp</dimen>
+    <dimen name="profile_setting_icon_margin">240dp</dimen>
+    <dimen name="profile_setting_icon_size">120dp</dimen>
+    <dimen name="profile_setting_main_container">450dp</dimen>
+    <dimen name="profilesetting_camera_icon_size">12dp</dimen>
+    <dimen name="profilesetting_camera_icon_size_lang">10dp</dimen>
+    <dimen name="reader_setting_left_right_margin">35dp</dimen>
+    <dimen name="reader_setting_margin_from_top">50dp</dimen>
+    <dimen name="rec_bottom_padding">0dp</dimen>
+    <dimen name="rec_left_padding">0dp</dimen>
+    <dimen name="rec_right_padding">0dp</dimen>
+    <dimen name="rec_top_padding">0dp</dimen>
+    <dimen name="save_click_size">25sp</dimen>
+    <dimen name="search_book_title_max_width">200dp</dimen>
+    <dimen name="search_bookthumb_height">130dp</dimen>
+    <dimen name="search_bookthumb_width">100dp</dimen>
+    <dimen name="search_common_margin">6dp</dimen>
+    <dimen name="search_container_bottom_margin">33dp</dimen>
+    <dimen name="search_container_height">150dp</dimen>
+    <dimen name="search_container_left_right_margin">12dp</dimen>
+    <dimen name="search_container_top_margin">8dp</dimen>
+    <dimen name="search_margin_between_text_view">8dp</dimen>
+    <dimen name="search_result_test_top_margin">10dp</dimen>
+    <dimen name="setting_left_right_margin">40dp</dimen>
+    <dimen name="share_bottom_padding">0dp</dimen>
+    <dimen name="share_left_padding">0dp</dimen>
+    <dimen name="share_right_padding">10dp</dimen>
+    <dimen name="share_top_padding">0dp</dimen>
+    <dimen name="terms_conditon_text_size">14sp</dimen>
+    <dimen name="topbar_icon_marginleft">20dp</dimen>
+    <dimen name="topbar_icon_size">22sp</dimen>
+    <dimen name="update_coverpic">12sp</dimen>
+    <dimen name="update_coverpic_camera">12sp</dimen>
+    <dimen name="update_coverpic_textsize">20sp</dimen>
+    <dimen name="updated_pic_size">120dp</dimen>
+    <dimen name="user_details_container_margin">20dp</dimen>
+    <dimen name="user_details_container_size">280dp</dimen>
+    <dimen name="username_edittextsize">12sp</dimen>
+    <dimen name="username_text_size">18sp</dimen>
+    <dimen name="version_textsize">14sp</dimen>
+    <dimen name="willo_logo_height">40dp</dimen>
+    <dimen name="willo_logo_width">210dp</dimen>
+    <item format="integer" name="action_bar_bottom_common_margin" type="integer">20</item>
+    <item format="integer" name="action_icon_min_width" type="integer">90</item>
+    <item format="integer" name="action_icon_size" type="integer">16</item>
+    <item format="integer" name="actionbar_menu_width_mobile" type="integer">133</item>
+    <item format="integer" name="font_land_margin_for_generic_user" type="integer">100</item>
+    <item format="integer" name="font_margin_for_generic_user" type="integer">100</item>
+    <item format="integer" name="link_ic_font_size" type="integer">14</item>
+    <item format="integer" name="link_ic_size" type="integer">24</item>
+    <item format="integer" name="mobile_bottombar_aduioSync_common_margin" type="integer">80</item>
+    <item format="integer" name="mobile_bottombar_epub_common_margin" type="integer">140</item>
+    <item format="integer" name="mobile_bottombar_epub_land_common_margin" type="integer">160</item>
+    <item format="integer" name="mobile_bottombar_epub_land_margin" type="integer">450</item>
+    <item format="integer" name="mobile_bottombar_epub_land_toc_margin" type="integer">380</item>
+    <item format="integer" name="mobile_bottombar_epub_search_margin" type="integer">160</item>
+    <item format="integer" name="mobile_bottombar_epub_toc_margin" type="integer">80</item>
+    <item format="integer" name="mobile_bottombar_fixed_epub_common_margin" type="integer">50</item>
+    <item format="integer" name="mobile_bottombar_fixed_epub_margin" type="integer">100</item>
+    <item format="integer" name="mobile_bottombar_left_margin" type="integer">500</item>
+    <item format="integer" name="mobile_bottombar_left_margin_fixed_epub" type="integer">600</item>
+    <item format="integer" name="mobile_bottombar_pdf_common_margin" type="integer">28</item>
+    <item format="integer" name="mobile_bottombar_pdf_land_margin" type="integer">470</item>
+    <item format="integer" name="mobile_bottombar_pdf_toc_margin" type="integer">50</item>
+    <item format="integer" name="mobile_topbar_pen_land_common_margin" type="integer">30</item>
+    <item format="integer" name="mobile_topbar_pen_land_left_margin" type="integer">400</item>
+    <item format="integer" name="mobile_topbar_pen_port_common_margin" type="integer">40</item>
+    <item format="integer" name="page_scroll_height" type="integer">495</item>
+    <item format="integer" name="search_land_margin_for_generic_user" type="integer">100</item>
+    <item format="integer" name="search_margin_for_generic_user" type="integer">170</item>
+    <item format="integer" name="teacher_review_bottombar_margin" type="integer">60</item>
+    <item format="integer" name="toc_land_margin_for_generic_user" type="integer">610</item>
+    <item format="integer" name="toc_land_margin_for_generic_user_fixed" type="integer">810</item>
+    <item format="integer" name="toc_margin_for_generic_user" type="integer">250</item>
+    <item format="integer" name="toc_margin_for_generic_user_fixed" type="integer">450</item>
+</resources>

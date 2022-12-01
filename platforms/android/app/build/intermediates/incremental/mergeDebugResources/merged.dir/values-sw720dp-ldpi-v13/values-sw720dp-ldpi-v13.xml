@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="book_thumbnail_item_total_height">100dp</dimen>
+    <item format="float" name="load_factor" type="dimen">1</item>
+</resources>

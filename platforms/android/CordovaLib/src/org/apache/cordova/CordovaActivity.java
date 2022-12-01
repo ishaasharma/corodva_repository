@@ -95,6 +95,7 @@ public class CordovaActivity extends AppCompatActivity {
     // Read from config.xml:
     protected CordovaPreferences preferences;
     protected String launchUrl;
+
     protected ArrayList<PluginEntry> pluginEntries;
     protected CordovaInterfaceImpl cordovaInterface;
 

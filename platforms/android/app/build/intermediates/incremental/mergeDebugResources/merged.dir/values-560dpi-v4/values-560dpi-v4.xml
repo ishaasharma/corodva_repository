@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item format="integer" name="action_icon_min_width" type="integer">90</item>
+    <item format="integer" name="action_icon_size" type="integer">20</item>
+    <item format="integer" name="font_land_margin_for_generic_user" type="integer">100</item>
+    <item format="integer" name="font_margin_for_generic_user" type="integer">110</item>
+    <item format="integer" name="mobile_bottombar_epub_common_margin" type="integer">290</item>
+    <item format="integer" name="mobile_bottombar_epub_land_common_margin" type="integer">150</item>
+    <item format="integer" name="mobile_bottombar_epub_land_margin" type="integer">600</item>
+    <item format="integer" name="mobile_bottombar_epub_land_toc_margin" type="integer">500</item>
+    <item format="integer" name="mobile_bottombar_epub_search_margin" type="integer">290</item>
+    <item format="integer" name="mobile_bottombar_epub_toc_margin" type="integer">40</item>
+    <item format="integer" name="mobile_bottombar_fixed_epub_common_margin" type="integer">100</item>
+    <item format="integer" name="mobile_bottombar_fixed_epub_margin" type="integer">200</item>
+    <item format="integer" name="mobile_bottombar_pdf_land_margin" type="integer">770</item>
+    <item format="integer" name="mobile_bottombar_pdf_toc_margin" type="integer">200</item>
+    <item format="integer" name="search_land_margin_for_generic_user" type="integer">100</item>
+    <item format="integer" name="search_margin_for_generic_user" type="integer">180</item>
+    <item format="integer" name="toc_land_margin_for_generic_user" type="integer">840</item>
+    <item format="integer" name="toc_land_margin_for_generic_user_fixed" type="integer">1040</item>
+    <item format="integer" name="toc_margin_for_generic_user" type="integer">400</item>
+    <item format="integer" name="toc_margin_for_generic_user_fixed" type="integer">600</item>
+</resources>
